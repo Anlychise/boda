@@ -191,7 +191,7 @@ main {
 /* Contador */
 .countdown {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 10rem;
 }
 .timer {
   display: flex;
